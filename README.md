@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Romdh4ne/FootballersDataSet/HEAD)
+
 # Football Player Statistics Dataset
 
 This dataset contains comprehensive statistics of football players from the top 5 leagues in Europe, which are considered the most prestigious and competitive leagues in the region. With 660 rows of data, it provides a rich source for in-depth analysis and exploration of player performances across different leagues and positions.
